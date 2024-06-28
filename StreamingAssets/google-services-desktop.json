@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "415941977849",
+    "project_id": "unity-push-notification-ac943",
+    "storage_bucket": "unity-push-notification-ac943.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415941977849:android:877458668e9034eeca2428",
+        "android_client_info": {
+          "package_name": "com.Renxo.TicTacToe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXXIn8qdAjEfEbUl4TE24jWCfpUFQO2_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
